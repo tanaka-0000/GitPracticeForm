@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitPracticeForm", "GitPracticeForm\GitPracticeForm.csproj", "{B89C2CF3-7C5D-4818-B71C-81EFF1CE095A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89C2CF3-7C5D-4818-B71C-81EFF1CE095A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89C2CF3-7C5D-4818-B71C-81EFF1CE095A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89C2CF3-7C5D-4818-B71C-81EFF1CE095A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89C2CF3-7C5D-4818-B71C-81EFF1CE095A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850B3931-0EDF-49DD-B455-67CA9F59C3EE}
+	EndGlobalSection
+EndGlobal
